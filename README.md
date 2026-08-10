@@ -1,7 +1,7 @@
 # Shamir's Secret Sharing CLI
 
-[![Go CI](https://github.com/rarguello/shamir/actions/workflows/go.yml/badge.svg)](https://github.com/rarguello/shamir/actions/workflows/go.yml)
-[![Release](https://github.com/rarguello/shamir/actions/workflows/release.yml/badge.svg)](https://github.com/rarguello/shamir/actions/workflows/release.yml)
+[![Go CI](https://github.com/daytwodev/shamir/actions/workflows/go.yml/badge.svg)](https://github.com/daytwodev/shamir/actions/workflows/go.yml)
+[![Release](https://github.com/daytwodev/shamir/actions/workflows/release.yml/badge.svg)](https://github.com/daytwodev/shamir/actions/workflows/release.yml)
 
 A minimalist, secure, and self-contained command-line tool written in Go to split and reconstruct secrets using [Shamir's Secret Sharing](https://en.wikipedia.org/wiki/Shamir%27s_secret_sharing) (SSS).
 
