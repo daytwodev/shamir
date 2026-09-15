@@ -1,2 +1,2 @@
-github.com/openbao/openbao/sdk/v2 v2.6.2 h1:bLSly7CPLaEIjMga/MzKWqh4FR5rrb8Z9UDjusQQMJs=
-github.com/openbao/openbao/sdk/v2 v2.6.2/go.mod h1:v9CYuq79OVgyqsdeLvBtGbXmYWA5ksIKtEZjUh2ZMyY=
+github.com/openbao/openbao/sdk/v2 v2.7.0 h1:9zvC2uvf9e3R6P/+PqajJF1aYxtVRni2kE4vHZTiiD4=
+github.com/openbao/openbao/sdk/v2 v2.7.0/go.mod h1:5mnXQZTYX1D9QeuhLAIgOVVRpv5vo++p/fMCT8xq4a0=
